@@ -1,5 +1,7 @@
 # data-eng week5 — Spark 파티션·셔플 실습과 일별 매출 데이터 마트
 
+개발 보조: OpenAI Codex
+
 ## 구성
 - Spark 3.5.3 Standalone: 마스터 1 + 워커 2, 전체 4코어
 - Docker Compose / WSL2, MinIO(S3A), Iceberg 1.5.2 Hadoop 카탈로그
